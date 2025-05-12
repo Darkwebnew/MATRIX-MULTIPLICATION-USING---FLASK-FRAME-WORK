@@ -1,0 +1,20 @@
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Matrix Multiplication</title>
+ </head>
+ <body>
+     <h1>Matrix Multiplication</h1>
+     <form action="/multiply" method="post">
+         <label for="matrix_a">Matrix A (Enter rows separated by newline, columns separated by space):</label><br>
+         <textarea id="matrix_a" name="matrix_a" rows="5" cols="20" required></textarea><br><br>
+         
+         <label for="matrix_b">Matrix B (Enter rows separated by newline, columns separated by space):</label><br>
+         <textarea id="matrix_b" name="matrix_b" rows="5" cols="20" required></textarea><br><br>
+         
+         <input type="submit" value="Multiply Matrices">
+     </form>
+ </body>
+ </html>
