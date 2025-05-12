@@ -105,9 +105,6 @@ Flask is a micro web framework written in Python. It is considered a microframew
               <textarea id="matrix_b" name="matrix_b" rows="5" cols="20" required></textarea><br><br>
               
               <input type="submit" value="Multiply Matrices">
-              <footer style="text-align: left; margin-top: 20px;">
-                   Created by JAYABHARATHI [212222100013]
-              </footer>
           </form>
       </body>
       </html>
@@ -119,13 +116,15 @@ Flask is a micro web framework written in Python. It is considered a microframew
 
 ### Terminal :
 
+![image](https://github.com/user-attachments/assets/21dd3bec-7d36-474a-89e3-cd3e63ec87e5)
 
 ### Inuput Page :
 
+![image](https://github.com/user-attachments/assets/79e0c427-ecff-490b-9590-ee2f5e7b0bad)
 
 ### Output Page :
 
-
+![image](https://github.com/user-attachments/assets/8547a798-fbac-49e1-b300-ba0ea41c3436)
 
 ## Result:
  The result is displayed in a user-friendly table format, offering an interactive and simple way to perform matrix multiplication using the Flask framework
